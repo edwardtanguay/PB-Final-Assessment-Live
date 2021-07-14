@@ -44,7 +44,7 @@
 #### B-1. Data Manipulation (10 Points)
 * Create a function `convertArrayData`.
 * It should take an array as an argument.
-* Use array methods to manipulate the data the array below. 
+* Use array methods to manipulate the data as in the array below. 
 * The first two items in the array should switch positions.
 * The third item should be replaced by an item containing "milk".
 * Return the changed array.
