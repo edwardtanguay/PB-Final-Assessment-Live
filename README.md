@@ -177,7 +177,7 @@
 #### D-1. Format your string (10 Points)
 
 * Write function `capitalizeFirstLetter` 
-* It should accepts a string as an argument.
+* It should accept a string as an argument.
 * If the argument is no string (e.g. 123 or true) convert it to a string first.
 * The function should convert the first character of each word to uppercase. 
 * **Example** _the quick brown fox_ → _The Quick Brown Fox_. 
